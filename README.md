@@ -92,19 +92,6 @@ Icon | Application
 <img src="https://lh6.ggpht.com/6zKH_uQY1bxCwXL4DLo_uoFEOXdShi3BgmN6XRHlaJ-oA1svmq6y1PZkmO50nWQn2Lg=w300-rw" width="48" height="48" /> | [Ameba Ownd](https://play.google.com/store/apps/details?id=jp.co.cyberagent.madrid)
 <img src="http://quitnowapp.com/xtra/QuitNow!-114.png" width="48" height="48" /> | [QuitNow!](https://play.google.com/store/apps/details?id=com.EAGINsoftware.dejaloYa)
 
-Developed By
--------
-Daichi Furiya (Wasabeef) - <dadadada.chop@gmail.com>
-
-<a href="https://twitter.com/wasabeef_jp">
-<img alt="Follow me on Twitter"
-src="https://raw.githubusercontent.com/wasabeef/art/master/twitter.png" width="75"/>
-</a>
-
-Thanks
--------
-
-* Inspired by `Picasso Transformations` in [TannerPerrien](https://github.com/TannerPerrien).
 
 
 
